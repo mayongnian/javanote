@@ -19,6 +19,7 @@ class Solution {
     }
 }
 ```
+---
 返回简单数组  
 ```java
 return new int[]{i,j};
