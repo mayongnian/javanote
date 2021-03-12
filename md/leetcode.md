@@ -1,7 +1,7 @@
 # leetcode笔记和题解
+
 1. 两数之和  
 法1 简单遍历  
-
 法2 哈希表
 ```java
 class Solution {
