@@ -5,3 +5,9 @@ java学习笔记
 2. 算法  
 [leetcode笔记和题解](https://github.com/mayongnian/javanote/blob/main/md/leetcode.md)  
 进度：题02
+3. 前驱知识  
+jdbc、servlet、jsp、（看javaEE教材）  
+sql语法和mysql、oracle的使用  
+前端基础：h5、js、jquery  
+4. SSM框架整合  
+[教程](https://mp.weixin.qq.com/s/SS66VWEnDgVH7O4UifYLxg)
